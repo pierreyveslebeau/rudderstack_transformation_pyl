@@ -18,7 +18,7 @@ jobs:
         with:
           ref: ${{ github.ref }}
       - name: Rudder Transformation Action
-        uses: rudderlabs/rudder-transformation-action@1.0.1
+        uses: pierreyveslebeau/rudderstack-repository-official
         with:
           metaPath: './code/meta.json'
           email: 'pierre-yves@fatmap.com'
