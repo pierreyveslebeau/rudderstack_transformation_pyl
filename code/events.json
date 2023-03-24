@@ -30,8 +30,8 @@
       }
     },
     "properties": {
-      "price": 20,
-      "revnue": 30
+      "price": 50,
+      "revnue": 60
     },
     "timestamp": "2020-02-02T00:23:09.544Z"
   }
