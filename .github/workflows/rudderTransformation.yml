@@ -1,4 +1,4 @@
-name: Publish Transformations to Rudder workspace
+name: Test
 
 on: 
   push:
