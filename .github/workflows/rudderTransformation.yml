@@ -18,9 +18,9 @@ jobs:
         with:
           ref: ${{ github.ref }}
       - name: Rudder Transformation Action
-        uses: pierreyveslebeau/rudderstack-repository-official@test
+        uses: rudderlabs/rudder-transformation-action@1.0.1
         with:
           metaPath: './code/meta.json'
           email: 'pierre-yves@fatmap.com'
-          accessToken: $'2NYs122nFgjEY1x5kc1Yebbjued'
+          accessToken: '2NYs122nFgjEY1x5kc1Yebbjued'
           uploadTestArtifact: true
