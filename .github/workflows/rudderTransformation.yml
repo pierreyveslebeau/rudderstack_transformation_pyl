@@ -22,5 +22,5 @@ jobs:
         with:
           metaPath: './code/meta.json'
           email: 'pierre-yves@fatmap.com'
-          accessToken: ${{ secrets.ACCESS_TOKEN }}
+          accessToken: $'2NYs122nFgjEY1x5kc1Yebbjued'
           uploadTestArtifact: true
